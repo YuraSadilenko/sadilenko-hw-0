@@ -1,7 +1,10 @@
 Homework 0 
 ===
 
-You can see the result: [https://yurasadilenko.github.io/sadilenko-hw-0/]
+You can see the result: [https://yurasadilenko.github.io/sadilenko-hw-0/] 
+
+   _Description:_ 
+   Simple game with a dice for two player! Winning score is 100 point! All files with code in free access!
     
 All styles in ***style.css*** file 
 
@@ -21,7 +24,7 @@ Bugs
 ----
 
 To file bug reports or feature requests please send email to:
-<markdown@daringfireball.net>.
+<yurasadilenko@gmail.com>.
 
 
 Version history 
